@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "511143336169",
+    "project_id": "teamconnect-dd976",
+    "storage_bucket": "teamconnect-dd976.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511143336169:android:2d74d3146183f1ced4b878",
+        "android_client_info": {
+          "package_name": "com.example.teamconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511143336169-kh4klunho5f65stma1gfsv3e8qscrhkp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.teamconnect",
+            "certificate_hash": "47c2be7a2491df965f7bdc5984b1713bfde67274"
+          }
+        },
+        {
+          "client_id": "511143336169-9rth6ungnlikavfvasjqkmce981rocgr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIqU2yUvIy5b6Y8lUfloQRdkCTl1_d9OY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511143336169-9rth6ungnlikavfvasjqkmce981rocgr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
