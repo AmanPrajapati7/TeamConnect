@@ -28,5 +28,12 @@ You can also check [**MVP**](https://github.com/ahmedeltaher/Android-MVP-Archite
 - Consider edge cases, leaks and how long-running operations can affect the instances in your architecture.
 - Don’t put logic in the ViewModel that is critical to saving clean state or related to data. Any call you make from a ViewModel can be the last one.
 
-### Screenshots 
+| Welcome Screen | Resident Login | OTP Authentication | Scan Documents |
+|:--------------:|:-------:|:-------:|:-------:|
+|(https://user-images.githubusercontent.com/61295782/190618891-2cee1e45-821d-4fe1-95ed-a61e68c042b4.jpeg)|![Resident Login Screenshot](https://i.ibb.co/GFHRCZ5/Screenshot-20211031-184201.jpg)|![WhatsApp Image 2021-10-31 at 7 14 31 PM](https://user-images.githubusercontent.com/61295782/190618962-72286da0-f66f-4f17-9e42-968667168530.jpeg)|![Scan Documents Screenshot](https://i.ibb.co/zhLxdnW/Screenshot-20211031-184449-01-01.jpg)|
+
+| Confirm Address and Verify GPS | Edit Address Form | Face Capture | Recipt Generation|
+|:--------------:|:-------:|:-------:|:-------:|
+|![Confirm Address and Verify GPS Screenshot](https://i.ibb.co/9mDPtFr/Screenshot-20211031-184604-01-01.jpg)|![Edit Address Form Screenshot](https://i.ibb.co/WvfN1sv/Screenshot-20211031-184618-01.jpg)|![WhatsApp Image 2021-11-13 at 4 16 35 PM](https://user-images.githubusercontent.com/61295782/190619175-c4480dce-43d8-4106-8ef0-9b37700dfb20.jpeg)|![WhatsApp Image 2021-11-28 at 10 54 09 PM](https://user-images.githubusercontent.com/61295782/190619195-ce6aec71-4207-4f39-b97f-1ce4db70d208.jpeg)|
+---
 
