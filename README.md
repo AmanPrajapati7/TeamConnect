@@ -31,7 +31,7 @@ You can also check [**MVP**](https://github.com/ahmedeltaher/Android-MVP-Archite
 ### Screenshots  📸
 | Welcome Screen | Employee Login | Employee Register | Home Screen |
 |:--------------:|:-------:|:-------:|:-------:|
-|![Icon](https://user-images.githubusercontent.com/74851399/198937803-eb01f067-cb09-472f-b284-d113ba1010bc.png)|![Login]([https://i.ibb.co/GFHRCZ5/Screenshot-20211031-184201.jpg](https://user-images.githubusercontent.com/74851399/198937842-55db5b74-9930-45e6-b9f5-de98a3f93828.png))|![Register](https://user-images.githubusercontent.com/61295782/190618962-72286da0-f66f-4f17-9e42-968667168530.jpeg)|![Home Screen](https://i.ibb.co/zhLxdnW/Screenshot-20211031-184449-01-01.jpg)|
+|![Icon](https://user-images.githubusercontent.com/74851399/198937803-eb01f067-cb09-472f-b284-d113ba1010bc.png)|![Login](https://user-images.githubusercontent.com/74851399/198937842-55db5b74-9930-45e6-b9f5-de98a3f93828.png)|![Register](https://user-images.githubusercontent.com/74851399/198937845-bfad2c44-4dcd-4c38-aff3-21e7c76031fa.png)|![Home Screen](https://user-images.githubusercontent.com/74851399/198937848-6a139d99-fb07-4565-ba0e-4dbd0c62650c.png)|
 
 | Navigation | Add Employee Screen | Global Chat |
 |:--------------:|:-------:|:-------:|
