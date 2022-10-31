@@ -9,15 +9,15 @@
 3. Data of a new team member can be imported via CSV file or can be manually added. Data of the existing team members can be shared in CSV format.
 4. The app is built using MVVM architecture, android architecture components, material layout, etc.
 
-Model-View-ViewModel (ie MVVM) is a template of a client application architecture, proposed by John Gossman as an alternative to MVC and MVP patterns when using Data Binding technology. Its concept is to separate data presentation logic from business logic by moving it into particular class for a clear distinction.
-You can also check [**MVP**](https://github.com/ahmedeltaher/Android-MVP-Architecture)
-
 ---
 ### Technologies Used 📱
 
 | Android Studio | Flutter | Firebase |
 |:--------------:|:-------:|:--------:|
 |![Android Studio Logo](https://techcrunch.com/wp-content/uploads/2017/02/android-studio-logo.png?w=730&crop=1)|![Kotlin Logo](https://w7.pngwing.com/pngs/314/161/png-transparent-kotlin-android-software-development-anonymous-function-programming-language-android-blue-angle-text-thumbnail.png)|![Firebase Logo](https://www.technisys.com/wp-content/uploads/2021/06/firebase_logo-1.png)|
+
+Model-View-ViewModel (ie MVVM) is a template of a client application architecture, proposed by John Gossman as an alternative to MVC and MVP patterns when using Data Binding technology. Its concept is to separate data presentation logic from business logic by moving it into particular class for a clear distinction.
+You can also check [**MVP**](https://github.com/ahmedeltaher/Android-MVP-Architecture)
 
 **MVVM Best Pratice:**
 - Avoid references to Views in ViewModels.
@@ -27,4 +27,6 @@ You can also check [**MVP**](https://github.com/ahmedeltaher/Android-MVP-Archite
 - Expose information about the state of your data using a wrapper or another LiveData.
 - Consider edge cases, leaks and how long-running operations can affect the instances in your architecture.
 - Don’t put logic in the ViewModel that is critical to saving clean state or related to data. Any call you make from a ViewModel can be the last one.
+
+### Screenshots 
 
