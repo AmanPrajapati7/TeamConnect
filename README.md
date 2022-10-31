@@ -28,12 +28,13 @@ You can also check [**MVP**](https://github.com/ahmedeltaher/Android-MVP-Archite
 - Consider edge cases, leaks and how long-running operations can affect the instances in your architecture.
 - Don’t put logic in the ViewModel that is critical to saving clean state or related to data. Any call you make from a ViewModel can be the last one.
 
-| Welcome Screen | Resident Login | OTP Authentication | Scan Documents |
+### Screenshots  📸
+| Welcome Screen | Employee Login | Employee Register | Home Screen |
 |:--------------:|:-------:|:-------:|:-------:|
-|!(https://user-images.githubusercontent.com/61295782/190618891-2cee1e45-821d-4fe1-95ed-a61e68c042b4.jpeg)|![Resident Login Screenshot](https://i.ibb.co/GFHRCZ5/Screenshot-20211031-184201.jpg)|![WhatsApp Image 2021-10-31 at 7 14 31 PM](https://user-images.githubusercontent.com/61295782/190618962-72286da0-f66f-4f17-9e42-968667168530.jpeg)|![Scan Documents Screenshot](https://i.ibb.co/zhLxdnW/Screenshot-20211031-184449-01-01.jpg)|
+|![Icon](https://user-images.githubusercontent.com/74851399/198937803-eb01f067-cb09-472f-b284-d113ba1010bc.png)|![Login]([https://i.ibb.co/GFHRCZ5/Screenshot-20211031-184201.jpg](https://user-images.githubusercontent.com/74851399/198937842-55db5b74-9930-45e6-b9f5-de98a3f93828.png))|![Register](https://user-images.githubusercontent.com/61295782/190618962-72286da0-f66f-4f17-9e42-968667168530.jpeg)|![Home Screen](https://i.ibb.co/zhLxdnW/Screenshot-20211031-184449-01-01.jpg)|
 
-| Confirm Address and Verify GPS | Edit Address Form | Face Capture | Recipt Generation|
-|:--------------:|:-------:|:-------:|:-------:|
-|![Confirm Address and Verify GPS Screenshot](https://i.ibb.co/9mDPtFr/Screenshot-20211031-184604-01-01.jpg)|![Edit Address Form Screenshot](https://i.ibb.co/WvfN1sv/Screenshot-20211031-184618-01.jpg)|![WhatsApp Image 2021-11-13 at 4 16 35 PM](https://user-images.githubusercontent.com/61295782/190619175-c4480dce-43d8-4106-8ef0-9b37700dfb20.jpeg)|![WhatsApp Image 2021-11-28 at 10 54 09 PM](https://user-images.githubusercontent.com/61295782/190619195-ce6aec71-4207-4f39-b97f-1ce4db70d208.jpeg)|
+| Navigation | Add Employee Screen | Global Chat |
+|:--------------:|:-------:|:-------:|
+|![Navigation](https://user-images.githubusercontent.com/74851399/198937849-622fd219-6e80-42d5-b207-a5dd94c8dc83.png)|![Add Employee](https://user-images.githubusercontent.com/74851399/198937855-b9d0fe80-6710-4c60-93a2-c93daa9fcdeb.png)|![Global Chat](https://user-images.githubusercontent.com/74851399/198937859-e285c1b5-81bd-4fd7-96c7-2b14b2272de9.png)|
 ---
 
