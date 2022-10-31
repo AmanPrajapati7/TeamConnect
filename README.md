@@ -5,7 +5,7 @@
 
 ---
 
-###### Brief Overview of Project 👨‍💻 :
+### Brief Overview of Project 👨‍💻 :
 1. The user registers or logs into the app where details of other team members are also present.
 2. The employees can discuss therir issues on the company chat.
 3. Data of a new team member can be imported via CSV file or can be manually added. Data of the existing team members can be shared in CSV format.
